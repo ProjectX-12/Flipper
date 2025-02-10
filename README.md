@@ -32,8 +32,8 @@ Flipper
 │   │   ├── utils.js           (Funções auxiliares)
 │   ├── /css
 │   │   ├── styles.css         (Estilos gerais)
-│── index.html                (Canvas e estrutura base)
-│── README.md                 (Documentação)
+│── index.html                (Canvas e estrutura base) 
+│── README.md                 (Documentação) 
 
 4. Ainda estou vendo se vou fazer um back-end ou não.
 
