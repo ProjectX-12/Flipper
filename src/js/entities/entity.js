@@ -1,4 +1,4 @@
-class Entity{
+export class Entity{
     constructor(){
         this.id = Math.floor(Math.random() * 1000000);//Gera um ID aleatório (Arrendonar aqui depois)
         this.components = {};//Cria um objeto vazio para pode receber os componentes futuramente
